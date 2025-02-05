@@ -10,10 +10,15 @@ Challenges withOUT modules
 Solution: Using Modules
 
 Terraform modules provide a way to organize and reuse infrastructure code, addressing the above challenges effectively:
+
 Encapsulation: Modules group related resources together, making them easier to manage.
+
 Reusability: Teams can reuse the same module across multiple projects, reducing code duplication.
+
 Maintainability: Updates to provider-specific configurations are centralized, simplifying changes.
+
 Standardization: Enforces best practices and consistency across infrastructure deployments.
+
 Ease of Use: Developers can leverage well-documented modules without needing in-depth Terraform expertise.
 
 
